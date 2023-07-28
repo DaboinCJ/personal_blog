@@ -68,8 +68,8 @@ sections:
     - company: Nosis Lab
       company_logo: 
       company_url: https://www.nosis.com/es
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
+      date_end: "2020-03-31"
+      date_start: "2018-10-01"
       description: |2-
           Worked on:
 

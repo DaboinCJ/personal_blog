@@ -5,14 +5,16 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# slides: example
 summary: Explorando el impacto de las sobre la actividad comercial y residencial en los barrios de CABA.
-# tags:
-# - Deep Learning
+tags:
+- Causal inference
+- GIS
+- Urban economics
 title: Impacto de las ciclovías sobre los alquileres en CABA
 url_code: ""
 url_pdf: ""
